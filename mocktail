@@ -1,0 +1,11 @@
+[repo]
+https://github.com/komaruworld/mocktail.git
+
+[folder]
+mocktail
+
+[instructions]
+make build
+
+[binary]
+./build/mocktail
