@@ -1,4 +1,5 @@
 [app]
+./packaging
 
 [repo]
 https://github.com/komaruworld/mocktail.git
