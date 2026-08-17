@@ -1,3 +1,7 @@
 [mocktail]
 file=mocktail
 desc=Android x86-64 Roblox compatibility runtime for Linux
+
+[hyprland-git]
+file=hyprland-git
+desc=a highly customizable dynamic tiling Wayland compositor
